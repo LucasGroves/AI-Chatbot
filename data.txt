@@ -1,0 +1,380 @@
+User: What is 43rd Street Deli?
+Bot: A classic breakfast and lunch spot with homestyle meals.
+User: Where is it located?
+Bot: 4401 NW 25th Pl.
+User: When is it open?
+Bot: Daily 7AM–2PM.
+User: What kind of food do they serve?
+Bot: They serve breakfast classics like pancakes, omelets, and homestyle lunch specials.
+
+User: Tell me about Piesanos Stone Fired Pizza.
+Bot: Piesanos serves stone-fired pizza, pasta, and salads.
+User: Where is it?
+Bot: 5757 SW 75th Ct, Gainesville, FL.
+User: What are their hours?
+Bot: Daily 11AM–10PM.
+User: What are their specialty dishes?
+Bot: Their specialty dishes include the Margherita Pizza, Spaghetti Carbonara, and Piesano’s homemade Lasagna.
+
+User: What is Flying Biscuit Café?
+Bot: A Southern-inspired café known for biscuits, grits, and omelets.
+User: Where is it?
+Bot: 4150 NW 16th Blvd.
+User: When is it open?
+Bot: Daily 7AM–9PM.
+User: What’s popular on their menu?
+Bot: Popular items include their famous Fried Green Tomato BLT, Shrimp and Grits, and Southern Fried Chicken.
+
+User: Tell me about Zaxby’s.
+Bot: Zaxby’s serves chicken fingers, wings, and sandwiches.
+User: Where is it?
+Bot: Multiple locations in Gainesville including 3501 SW Archer Rd.
+User: When is it open?
+Bot: Typically 10:30AM–10PM.
+User: Do they offer any special meals or deals?
+Bot: They offer Zax Family Packs, including various combinations of chicken fingers, sides, and drinks.
+
+User: Where is Yummy House?
+Bot: Yummy House is located at 3102 SW 34th St, Gainesville, FL.
+User: What type of cuisine does Yummy House serve?
+Bot: Yummy House serves Cantonese and Hong Kong-style Chinese food.
+User: When is Yummy House open?
+Bot: Daily from 11AM to 9:30PM.
+User: What are some must-try dishes?
+Bot: Must-try dishes are the Salt and Pepper Calamari, Honey Walnut Shrimp, and the Roast Duck.
+
+User: What is Flaco’s known for?
+Bot: Flaco’s is famous for Cuban sandwiches and empanadas.
+User: Where is Flaco’s?
+Bot: 200 W University Ave.
+User: What are Flaco’s hours?
+Bot: Open until late — good for late-night eats.
+User: Do they serve any beverages?
+Bot: Yes, they serve Cuban coffee and fresh tropical juices.
+
+User: What kind of burgers does Relish offer?
+Bot: Relish lets you build your own gourmet burger with toppings and sauces.
+User: Where is Relish?
+Bot: 1702 W University Ave, Gainesville, FL.
+User: What are their hours?
+Bot: Typically 11AM–12AM.
+User: Do they have any special offerings?
+Bot: They offer sweet potato fries and milkshakes along with their burgers.
+
+User: Describe Satchel’s Pizza.
+Bot: Satchel’s Pizza is a quirky pizzeria with unique decor, famously known for its deep-dish and regular pizzas.
+User: Where is it located?
+Bot: 1800 NE 23rd Ave, Gainesville, FL.
+User: What are their hours of operation?
+Bot: Open Tuesday to Saturday, 11AM–10PM, closed on Sunday and Monday.
+User: What are their standout dishes?
+Bot: Popular dishes include the Satchel Star pizza and the vegan pesto pizza.
+
+User: What is Dragonfly Sushi & Sake Company known for?
+Bot: Known for its sushi and Japanese cuisine.
+User: Where is Dragonfly located?
+Bot: 201 SE 2nd Ave #104, Gainesville, FL.
+User: When is it open?
+Bot: Monday to Thursday 11:30AM–3:30PM,  5PM–10PM, Friday 11:30AM–11PM, Saturday 5PM–11PM, closed on Sunday.
+User: What are some recommended dishes?
+Bot: The Black Dragon Roll and the Dragonfly's Signature Omakase.
+
+User: Tell me about The Top.
+Bot: The Top is renowned for its diverse menu offering vegan, vegetarian, and meat dishes.
+User: Where is it located?
+Bot: 30 N Main St, Gainesville, FL.
+User: When does it open?
+Bot: Daily 5PM–2AM.
+User: What’s popular on their menu?
+Bot: Popular items include their Grilled Tempeh Reuben and the Lamb Burger.
+
+User: Describe Bistro 1245.
+Bot: Bistro 1245 serves New American cuisine and offers a casual dining experience.
+User: Where is it located?
+Bot: 1245 W University Ave, Gainesville, FL.
+User: When is it open?
+Bot: Daily 11:30AM–11PM.
+User: What are some highlight dishes?
+Bot: Highlight dishes include the Duck Confit Tacos and Truffle Fries.
+
+User: What is Leonardo's 706?
+Bot: Leonardo's 706 is known for its gourmet pizzas and Italian dishes.
+User: Where is it located?
+Bot: 706 W University Ave, Gainesville, FL.
+User: When is it open?
+Bot: Daily 11AM–10PM.
+User: What are their special dishes?
+Bot: The Sicilian pizza and the Eggplant Parmesan are highly recommended.
+
+User: Describe Emiliano's Cafe.
+Bot: Emiliano's Cafe serves Latin fusion cuisine.
+User: Where is it located?
+Bot: 7 SE 1st Ave, Gainesville, FL.
+User: When is it open?
+Bot: Monday to Thursday 11AM–10PM, Friday and Saturday 11AM–11PM, and Sunday brunch 10AM–3PM.
+User: What should I try?
+Bot: The Paella and Arepas are some of their best dishes.
+
+User: Where is Civilization restaurant?
+Bot: Civilization is located at 1511 NW 2nd St, Gainesville, FL.
+User: What type of food do they serve?
+Bot: They serve globally-inspired sustainable cuisine.
+User: When is Civilization open?
+Bot: Open Tuesday to Saturday, 11AM–9PM, closed on Sunday and Monday.
+User: What are some popular dishes?
+Bot: Popular dishes include the Ethiopian Plate and the Vietnamese Banh Mi.
+
+User: Who's Hop'd Up Beer & Burgers?
+Bot: Hop'd Up Beer & Burgers is known for craft burgers and a wide selection of beers.
+User: Where is it located?
+Bot: 4160 W 13th St, Gainesville, FL.
+User: What are their hours?
+Bot: Open daily 11AM–11PM.
+User: Which burgers should I try?
+Bot: The Jalapeño Cheddar Burger and Bacon Avocado Burger are highly recommended.
+
+User: What is Karma Cream known for?
+Bot: Karma Cream is an ice cream and dessert shop known for its vegan options.
+User: Where is it located?
+Bot: 1025 W University Ave, Gainesville, FL.
+User: When is it open?
+Bot: Monday to Thursday 12PM–10PM, Friday and Saturday 12PM–11PM, Sunday 12PM–9PM.
+User: What are some must-try items?
+Bot: Must-try items are their Vegan Cookies and Cream ice cream and their dairy-free milkshakes.
+
+User: Describe Blue Agave.
+Bot: Blue Agave is known for its Mexican cuisine and house-made margaritas.
+User: Where is it located?
+Bot: 4401 NW 25th Pl, Gainesville, FL.
+User: When is it open?
+Bot: Monday to Saturday 11AM–10PM, Sunday 11AM–9PM.
+User: What are their special dishes?
+Bot: Their special dishes include the Carnitas Tacos, Fajitas, and Enchiladas Verde.
+
+User: What is Mi Apa Latin Café?
+Bot: Mi Apa Latin Café serves Cuban and Latin American dishes.
+User: Where is it located?
+Bot: 114 SW 34th St.
+User: When is it open?
+Bot: Daily 7AM–9PM.
+User: What’s popular on their menu?
+Bot: Popular items include their Cuban Sandwich, Ropa Vieja, and Empanadas.
+
+User: Where is Boca Fiesta?
+Bot: Boca Fiesta is located at 232 SE 1st St, Gainesville, FL.
+User: What type of food do they serve?
+Bot: They serve Mexican food with a twist, including alligator tacos and craft cocktails.
+User: When is Boca Fiesta open?
+Bot: Daily from 11AM to 2AM.
+User: What are some recommended dishes?
+Bot: Recommended dishes include their Alligator Tacos and the Carne Asada Burrito.
+
+User: What is Mildred’s?
+Bot: Mildred’s is a chic bistro known for farm-to-table American cuisine.
+User: Where is it located?
+Bot: 3445 W University Ave, Gainesville, FL.
+User: When is it open?
+Bot: Tuesday to Saturday, 5PM–10PM, closed on Sunday and Monday.
+User: What are their specialty dishes?
+Bot: Their specialty dishes include Pan-Seared Scallops and Beef Short Rib.
+
+User: Tell me about The Bagel Bakery.
+Bot: The Bagel Bakery is a casual breakfast and lunch spot.
+User: Where is it located?
+Bot: 4113 NW 16th Blvd.
+User: When is it open?
+Bot: Daily 6AM–2PM.
+User: What are their popular menu items?
+Bot: Popular items include their Lox Bagel and Chicken Salad Sandwich.
+
+User: Describe Mojo Hogtown Bar-B-Que.
+Bot: Mojo Hogtown Bar-B-Que is known for its Southern-style BBQ.
+User: Where is it located?
+Bot: 12 SE 2nd Ave, Gainesville, FL.
+User: What are their hours?
+Bot: Daily 11AM–10PM.
+User: What are their standout dishes?
+Bot: Standout dishes include the Smoked Brisket and the Pulled Pork Sandwich.
+
+User: What is Grub Burger Bar?
+Bot: Grub Burger Bar offers gourmet burgers and shakes.
+User: Where is it located?
+Bot: 3841 SW Archer Rd, Gainesville, FL.
+User: When is it open?
+Bot: Daily 11AM–10PM.
+User: What are some popular items?
+Bot: Popular items include their Mac 'N' Cheeseburger and the Harlem Chicken Sandwich.
+
+User: Where is Kabab House located?
+Bot: 3728 SW Archer Rd, Gainesville, FL.
+User: What cuisine does Kabab House serve?
+Bot: Kabab House serves Mediterranean and Middle Eastern dishes.
+User: When is it open?
+Bot: Daily 11AM–10PM.
+User: What are some must-try dishes?
+Bot: Must-try dishes include the Lamb Shish Kabab and the Chicken Shawarma Plate.
+
+User: Tell me about Peach Valley Café.
+Bot: Peach Valley Café is known for its breakfast and brunch offerings.
+User: Where is it located?
+Bot: 3275 SW 34th St, Gainesville, FL.
+User: When is it open?
+Bot: Daily 7AM–3PM.
+User: What’s popular on their menu?
+Bot: Popular items include the Apple Fritters and the Smoked Salmon Benedict.
+
+User: Describe Big Lou’s NY Style Pizzeria.
+Bot: Big Lou’s is known for its New York-style pizzas и classic Italian dishes.
+User: Where is it?
+Bot: 5 SE 2nd Ave, Gainesville, FL.
+User: What are their hours?
+Bot: Daily from 11AM to 10PM.
+User: What are some specialty pizzas?
+Bot: Specialty pizzas include White Pizza and the Meat Lovers Pizza.
+
+User: What is The Hyppo known for?
+Bot: The Hyppo is known for; High-quality handcrafted gourmet ice pops
+User: Where is it located?
+Bot: 214 SE 2nd Ave, Gainesville, FL.
+User: When is it open?
+Bot: Daily 12PM–9PM.
+User: What are some popular flavors?
+Bot: Popular flavors include Mango Habanero, Strawberry Basil, and Pistachio Coconut.
+
+User: Tell me about Volcanic Sushi + Sake
+Bot: Volcanic Sushi+ Sake is a modern Japanese restaurant, pike in which are sushi and sake
+User: Where is it located?
+Bot: 6343 W Newberry Rd,Gainesville, FL.
+User: When is it open?
+Bot: Monday to Saturday 11:30AM–10PM, 12PM–9PM
+User: What should I try?
+Bot: Try the Volcano Roll and the Chef’s Special Sashimi Plate.
+
+User: Describe Swamp Head Brewery.
+Bot: Swamp Head Brewery is known of the art house.
+User: Where is it located?
+Bot: 3650 SW 42nd Ave Gainesville, FL.
+User: When is it open?
+Bot: Monday to Thursday 4PM–9PM, Friday to Saturday 1PM–10PM, Sunday 1PM–8PM
+User: What are their popular brews?
+Bot: Popular brews include the IPA & the Wild Night Honey Cream Ale.
+
+User: What is Liquid Ginger known for?
+User: Where is it located?
+Bot: 101 SE 2nd Pl, Gainesville, FL
+User: When is it open?
+Bot: Lunch Monday - Saturday 11:30AM - 2:30PM, Dinner: Monday- Thursday 5PM–10PM, 
+User: What should I try the most?
+Bot: Just Thai Basil Beef and the Szechuan Shrimp.
+
+User: Where is Public & General?
+User: Where is it?
+Bot: 1000 NE 16th Ave, Gainesville, FL.
+User: What kind of food does it serve?
+Bot: It serves sandwiches, burgers, and an ever-changing menu of seasonal dishes.
+User: When is it open?
+Bot: Tuesday to Saturday 11AM–10PM, Sunday 10AM–3PM, closed on Monday.
+User: What are their specialty items?
+Bot: Specialty items include the Pork Belly Banh Mi and Duck Confit Sandwich.
+
+User: Tell me about La Tienda Latina.
+Bot: La Tienda Latina is known for authentic Mexican cuisine
+User: Where is it located?
+Bot: 2204 SW 13th St Gainesville, FL.
+User: What are their hours?
+Bot: Monday to Saturday 10AM–9PM, Sunday 10AM–6PM.
+User: What should I try?
+Bot: Try the Tacos Al Pastor and the Enchiladas.
+
+User: Describe Metro Diner.
+Bot: Metro Diner is known for classic American diner
+User: Where is it located?
+Bot: 2130 NW 13th St, Gainesville, FL.
+User: When is it open?
+Bot: Daily 7AM–8PM
+User: What are some popular dishes?
+Bot: Chicken and Waffles and the Biscuits and Sausage Gravy.
+
+User: What kind of food does Crane Ramen serve?
+Bot: Crane Ramen serves Japanese ramen bowls and small plates.
+User: Where is it located?
+Bot: 16 SW 1st Ave, Gainesville, FL.
+User: When is it open?
+Bot: Monday to Thursday 5PM–10PM, Friday and Saturday 11AM–2PM, 5PM–11PM, closed on Sunday.
+User: What should I try?
+Bot: Must-try items include the Spicy Miso Ramen and the Pork Belly Buns.
+
+User: Where is The Swamp Restaurant?
+Bot: The Swamp Restaurant is at 1104 SW 2nd Ave, Gainesville, FL.
+User: What type of food does it serve?
+Bot: It serves American and Southern cuisine.
+User: When is it open?
+Bot: Daily 11AM–2AM.
+User: What are their popular menu items?
+Bot: Popular items include the Gator Tail and the Swamp Burger.
+
+User: Tell me about V Pizza.
+Bot: V Pizza is known for Neapolitan pizzas and Italian dishes.
+User: Where it is located?
+Bot: 115 SE 1st St. Gainesville, FL.
+User: When is it open?
+Bot: Daily 11AM–10PM
+User: What are their must-try dishes?
+Bot: Must-try dishes include the Margherita Pizza and the Calzone.
+
+User: Describe Embers Wood Grill.
+Bot: Embers Wood Grill is an upscale restaurant with wood-fired steaks and seafood.
+User: Where is it located?
+Bot: 3545 SW 34th St, Gainesville, FL.
+User: When is it open?
+Bot: Monday to Saturday 5PM–9PM, closed on Sunday.
+User: What are popular dishes?
+Bot: Dishes include the Filet Mignon and the Grilled Octopus.
+
+User: What kind of food does Beque Holic serve?
+Bot: Beque Holic serves Korean barbecue.
+User: Where is it located?
+Bot: 3761 SW 13th St, Gainesville, FL.
+User: When is it open?
+Bot: Daily 11AM–10PM.
+User: What are must-try dishes?
+Bot: Must-try items include the Pork Belly BBQ and the Bulgogi.
+
+User: Tell me about OAK.
+Bot: OAK is known for its rustic ambiance and Southern-inspired American cuisine.
+User: Where is it located?
+Bot: 15 SE 1st Ave, Gainesville, FL.
+User: When is it open?
+Bot: Tuesday to Thursday 11AM–10PM, Friday and Saturday 11AM–11PM, Sunday 10AM–3PM, closed on Monday.
+User: What are popular dishes?
+Bot: Shrimp and Grits and the Fried Green Tomatoes.
+
+User: Describe Glamping HUB.
+Bot: Glamping HUB offers a unique fusion of comfort food and Asian-inspired dishes.
+User: Where is it located?
+Bot: 1309 NW 23rd Ave, Gainesville, FL.
+User: When is it open?
+Bot: Monday to Thursday 11AM–9PM, Friday to Sunday 11AM–10PM.
+User: What should I try?
+Bot: Try the Korean Tacos and the Chicken Waffle Sandwich.
+
+User: What is the specialty of Peach Valley Café?
+Bot: Peach Valley Café specializes in breakfast and brunch dishes.
+User: Where is it located?
+Bot: 3275 SW 34th St, Gainesville, FL.
+User: When is it open?
+Bot: Daily 7AM–3PM.
+User: What are popular items?
+Bot: Apple Fritters and the Avocado Toast.
+
+User: What is Bo Diddley Plaza’s relevance to food?
+Bot: Bo Diddley Plaza hosts local food trucks and events.
+User: Where is it located?
+Bot: 111 E University Ave, Gainesville, FL.
+User: When is it available?
+Bot: Events and food trucks typically throughout the week, check schedules for specific times.
+User: What type of food can I expect?
+Bot: Variety of foods from vendors including tacos, BBQ, and more.
+
+User: What is Iceburg Tenderloin Tacos known for?
+Bot: Iceburg Tenderloin Tacos is known for its fusion of Mexican and American cuisine.
